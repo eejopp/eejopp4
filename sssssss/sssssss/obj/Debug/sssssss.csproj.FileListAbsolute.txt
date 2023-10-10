@@ -1,0 +1,14 @@
+C:\Users\mixar\source\repos\sssssss\sssssss\bin\Debug\sssssss.exe.config
+C:\Users\mixar\source\repos\sssssss\sssssss\bin\Debug\sssssss.exe
+C:\Users\mixar\source\repos\sssssss\sssssss\bin\Debug\sssssss.pdb
+C:\Users\mixar\source\repos\sssssss\sssssss\obj\Debug\sssssss.csproj.AssemblyReference.cache
+C:\Users\mixar\source\repos\sssssss\sssssss\obj\Debug\sssssss.csproj.CoreCompileInputs.cache
+C:\Users\mixar\source\repos\sssssss\sssssss\obj\Debug\sssssss.exe
+C:\Users\mixar\source\repos\sssssss\sssssss\obj\Debug\sssssss.pdb
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\bin\Debug\sssssss.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\bin\Debug\sssssss.exe
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\bin\Debug\sssssss.pdb
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\obj\Debug\sssssss.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\obj\Debug\sssssss.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\obj\Debug\sssssss.exe
+C:\Users\arina\OneDrive\Рабочий стол\sssssss\sssssss\obj\Debug\sssssss.pdb
